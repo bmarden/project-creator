@@ -6,5 +6,5 @@ Creates a main driver file with a user specified name. You can optionally add ad
 Requires groovy to be installed on your system to run. Tested on Linux and MacOS. Run the script with the following command: 
 
 ```bash
-$ groovy project_creator.groovy 
+$ groovy prj_create.groovy 
 ```
